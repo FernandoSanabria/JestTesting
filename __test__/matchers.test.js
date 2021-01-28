@@ -12,11 +12,17 @@ describe('commun compare', () => {
     name: 'Mande',
     lastname: 'Rey',
   };
+
   const user2 = {
     name: 'Mande',
-    lastname: 'Rey',
+    lastname: 'Rey ',
   };
+
   test('are equal?', () => {
     expect(user).toEqual(user2);
+  });
+
+  test('are no equal?', () => {
+    expect(user).not.toEqual(user2);
   });
 });
