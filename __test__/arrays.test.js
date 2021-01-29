@@ -10,6 +10,10 @@ describe('Array validations', () => {
   });
 
   test('length test', () => {
-      expect(arrayFruits()).toHaveLength(4)
+    expect(arrayFruits()).toHaveLength(4);
+  });
+
+  test('color contains test', () => {
+    expect(arrayColors()).toHaveLength(4);
   });
 });

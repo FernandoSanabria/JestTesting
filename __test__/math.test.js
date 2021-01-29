@@ -4,7 +4,7 @@ import {
 
 describe('Calculos', () => {
   test('sum test', () => {
-    expect(sum(2, 3)).toBe(6);
+    expect(sum(2, 3)).toBe(5);
   });
   test('multiplicar test', () => {
     expect(multiplicar(2, 3)).toBe(6);

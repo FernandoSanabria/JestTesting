@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611870375076" clover="3.2.0">
-  <project timestamp="1611870375077" name="All files">
-    <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="10" elements="24" coveredelements="23" complexity="0" loc="13" ncloc="13" packages="1" files="4" classes="4"/>
+<coverage generated="1611889827340" clover="3.2.0">
+  <project timestamp="1611889827340" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="24" coveredelements="24" complexity="0" loc="13" ncloc="13" packages="1" files="4" classes="4"/>
     <file name="arrays.js" path="C:\Users\akasha\Desktop\unit test with Jest\arrays.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="4" count="3" type="stmt"/>
