@@ -1,3 +1,3 @@
 export function callbackHell(callback) {
-    callback('Hola bebé')
+  callback('Hola bebé');
 }

@@ -5,7 +5,7 @@ beforeAll(() => console.log('Antes de todos los test'));
 beforeEach(() => console.log('antes de de cada test'));
 
 describe('veamos', () => {
-   test('Si es o no', () => {
-       expect(true).toBeTruthy();
-   }); 
+  test('Si es o no', () => {
+    expect(true).toBeTruthy();
+  });
 });
